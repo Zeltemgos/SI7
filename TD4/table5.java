@@ -9,6 +9,7 @@ public class table5 {
 		
 		for (;i<= 10;i++){
 			System.out.println(i+"*"+y+"="+i*y);
+			System.out.println("test");
 		}
 
 	}
